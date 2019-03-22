@@ -1,0 +1,42 @@
+/* Pallette brown #3f2b2c, sand #aca287, red #ec3047 */
+
+body {
+  background-color: #3f2b2c
+}
+
+header {
+  background-color: #ec3047;
+}
+
+nav {
+  width: 960px;
+  height: 90px;
+  margin: 0px auto 0px auto;
+  outline: 2px solid black;
+}
+
+nav a img{
+  outline: 2px solid black;
+  /* display: inline-block; */
+  margin: 10px 0px 10px 0px;
+  float: left;
+}
+
+
+#navButtons {
+  outline: 2px solid black;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+  width: 70%;
+  height: 70px;
+}
+
+
+nav a p {
+  outline: 2px solid black;
+  display: inline-block;
+  width: 20%;
+  height: 70px;
+  
+}
